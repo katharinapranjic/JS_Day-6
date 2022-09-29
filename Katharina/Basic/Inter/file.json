@@ -1,0 +1,73 @@
+let employeesJson = `[
+    {
+    "id": "01",
+    "firstName": "Klara",
+    "lastName": "Hoven",
+    "emailAddress": "klara.hoven@abc.com",
+    "jobTitle": "Assistant to the CEO",
+    "salary": "3.000€"
+    }, {
+    "id": "02",
+    "firstName": "Peter",
+    "lastName": "Johnson",
+    "emailAddress": "peter.johnson@abc.com",
+    "jobTitle": "HR Partner",
+    "salary": "3.300€"
+    }, {
+    "id": "03",
+    "firstName": "Maria",
+    "lastName": "Edler",
+    "emailAddress": "maria.edler@abc.com",
+    "jobTitle": "Assistant HR Partner",
+    "salary": "2.500€"
+    }, {
+    "id": "04",
+    "firstName": "Karen",
+    "lastName": "McLarry",
+    "emailAddress": "karen.mclarry@abc.com",
+    "jobTitle": "Accountant",
+    "salary": "3.000€"
+    }, {
+    "id": "05",
+    "firstName": "Jackson",
+    "lastName": "Avery",
+    "emailAddress": "jackson.avery@abc.com",
+    "jobTitle": "Marketing",
+    "salary": "3.200€"
+    }, {
+    "id": "06",
+    "firstName": "Meredith",
+    "lastName": "Grey",
+    "emailAddress": "meredith.grey@abc.com",
+    "jobTitle": "Marketing Assistant",
+    "salary": "2.800€"
+    }, {
+    "id": "07",
+    "firstName": "Miranda",
+    "lastName": "Bailey",
+    "emailAddress": "miranda.bailey@abc.com",
+    "jobTitle": "Key Account Manager",
+    "salary": "3.400€"
+    }, {
+    "id": "08",
+    "firstName": "Gerard",
+    "lastName": "Butler",
+    "emailAddress": "gerard.butler@abc.com",
+    "jobTitle": "Key Account Manager",
+    "salary": "3.400€"
+    },  {
+    "id": "09",
+    "firstName": "Sandra",
+    "lastName": "Bullock",
+    "emailAddress": "sandra.bullock@abc.com",
+    "jobTitle": "ABC-Manager",
+    "salary": "3.000€"
+    }, {
+    "id": "10",
+    "firstName": "Barack",
+    "lastName": "Obama",
+    "emailAddress": "barack.obama@abc.com",
+    "jobTitle": "ABC-Manager",
+    "salary": "3.100€"
+    }
+]`;
